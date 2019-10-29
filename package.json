@@ -1,7 +1,7 @@
 {
   "name": "heroku-awesome-cli-plugin",
   "description": "A awesome Heroku CLI plugin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Keith Lockwood @kwlockwo",
   "bugs": "https://github.com/kwlockwo/heroku-awesome-cli-plugin/issues",
   "dependencies": {
